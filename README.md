@@ -1,11 +1,11 @@
 ## Hi there, I'm Sahil Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>    
 
-I am a Back-End Developer✨. Currently, I am pursuing a bachelor's degree in Engineering in Computer Science 🧑‍💻. I have skills in Web Development and Machine Learning. These days, my main focus is to learn about system design 🐷. I am always ready for new experiences, to meet new people, and to learn new things 🤩
+I am a Back-End Developer✨. Currently, I am pursuing a bachelor's degree in Engineering in Computer Science 🧑‍💻. I have skills in Web Development and Machine Learning. These days, my main focus is to learn about System Design. I am always ready for new experiences, to meet new people, and to learn new things 🤩
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on [Discount Doc](https://github.com/sahilsh-dev/discount-doc)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on [North Chat](https://github.com/sahilsh-dev/north-chat)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning NoSQL
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 
